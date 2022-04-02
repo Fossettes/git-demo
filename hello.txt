@@ -8,5 +8,8 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
+<<<<<<< HEAD
 hatguigu! hello git!22222
-wocao
+=======
+wocao2222
+>>>>>>> hotfix
